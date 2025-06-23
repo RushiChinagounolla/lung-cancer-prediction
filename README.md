@@ -13,7 +13,7 @@ A machine learning project predicting lung cancer severity based on patient life
 
 ## Dataset Source
 
-[Kaggle: Cancer Patients and Air Pollution – A New Link](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
+[Kaggle: Cancer Patients and Air Pollution](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
 
 ---
 
